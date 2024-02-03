@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full stack web development
 
 # 💫 About Me:
-🔭 I’m currently looking for a job.<br>🌱 I’m currently learning **Anything which excites me 😊**<br>👯 I’m looking to collaborate on **Exciting projects**<br>🤝 I’m looking for help with **Personal assistant**<br>👨‍💻 All of my projects are available at [https://www.kushalgohil.com/]("Put link here")<br>💬 Ask me about **CSS3, ReactJS**<br>📫 How to reach me **deepakkumarrp@gmail.com**<br>Know about my experiences "resume link here"<br>
+🔭 I’m currently looking for a job.<br>🌱 I’m currently learning **Anything which excites me 😊**<br>👯 I’m looking to collaborate on **Exciting projects**<br>🤝 I’m looking for help with **Personal assistant**<br>👨‍💻 All of my projects are available at ("Put link here")<br>💬 Ask me about **CSS3, ReactJS**<br>📫 How to reach me **deepakkumarrp@gmail.com**<br>Know about my experiences "resume link here"<br>
 
 
 ## 🌐 Socials:
