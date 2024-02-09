@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: column;">
   <div style="align-self: left; flex: 1;">
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="500" alt="animated hello">
   </div> 
