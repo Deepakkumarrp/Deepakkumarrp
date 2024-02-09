@@ -35,4 +35,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Deepakkumarrp&show_icons=true&hide_border=true&&theme=transparent"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepakkumarrp" alt="" /></p>
