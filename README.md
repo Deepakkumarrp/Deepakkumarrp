@@ -30,6 +30,6 @@
 # 📊 GitHub Stats:
 
 
-![]("https://github-readme-streak-stats.herokuapp.com?user=Deepakkumarrp&theme=transparent")
+![]("https://github-readme-streak-stats.herokuapp.com?user=Deepakkumarrp&theme=transparent")<br />
 ![]("https://github-readme-stats.vercel.app/api?username=Deepakkumarrp&show_icons=true&hide_border=true&&theme=transparent")
 
