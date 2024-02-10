@@ -30,7 +30,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%23FF0000.svg?logo=Twitter&logoColor=white)](https://twitter.com/Deepakkumarrp_) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,reactjs,chakraui,bootstrap,nodejs,expressjs,mongodb,mysql,redis,github,git,postman,netlify,vercel&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,vite,java,materialui,bootstrap,nodejs,expressjs,mongodb,mysql,redis,github,git,postman,netlify,vercel&theme=light)](https://skillicons.dev)
 # 📊 GitHub Stats:
 
 
