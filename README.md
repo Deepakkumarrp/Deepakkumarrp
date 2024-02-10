@@ -7,10 +7,9 @@
 <h1 align="center">Hi 👋, I'm Deepak Purohit</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-[<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00ffff&background=B3FFE500&center=true&random=false&width=435&lines=Full+Stack+Web+Developer+👨🏻‍💻;1500%2B+Hours+of+Coding+Experience+⚡️;500%2B+DSA+Questions+Solved+💡)</div>](https://git.io/typing-svg)
+[<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=500&color=00ffff&background=B3FFE500&center=true&random=false&width=435&lines=Full+Stack+Web+Developer+👨🏻‍💻;1500%2B+Hours+of+Coding+Experience+⚡️;500%2B+DSA+Questions+Solved+💡)</div>](https://git.io/typing-svg)
 <hr>
 
-<h3 align="center">I'm a passionate full-stack web developer. My expertise spans both front-end and back-end technologies, allowing me to seamlessly translate ideas into functional, user-friendly experiences.</h3>
 <br />
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Deepakkumarrp&label=Profile%20views&color=0e75b6&style=flat" alt="Deepak" /> </p>
